@@ -1,0 +1,2 @@
+O propósito desse projeto era automatizar a tarefa de entrar no sistema de uma empresa e cadastrar manualmente cada produto.
+Utilizando python e a biblioteca pyautogui, conseguimos automatizar muitas tarefas do dia a dia.
